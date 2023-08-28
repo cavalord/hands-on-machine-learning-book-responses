@@ -1,0 +1,15 @@
+1. Resolução de problemas a partir da inferencia computacional de um algoritmo baseado em um conjunto de dados
+2. Medicina, Chatbots, Tradução e Autocompletar Frases
+3. É o set de dados de treino que são tageados/nomeados
+4. Classificação e Regressão
+5. Clustering e Algoritmos de Visualização
+6. De acordo com as definições do livro: Self-supervised learning. Input de diversos tipos de terreno diferentes, com e sem labeling.
+7. Algoritmos de clasificação
+8. Aprendizado não supervisionado. Atualmente é absurdamente variavel os modos que um spam pode aparecer.
+9. Aprendizado em tempo real, o contrario de batch.
+10. É o treinamento de um modelo que não cabe no processamento do computador, pelo tamanho do dataset, etc. O modelo é treinado em partes do dataset até o completar.
+11. KNN (?)
+12. Os parametros de um modelo podem ser entendidos como as variaveis constituintes do modelo, por exemplo os coeficientes da equação de regressão linear. Hiperparametros são relacionados ao algoritmo em sí, não ao modelo
+13.
+14.
+15.
